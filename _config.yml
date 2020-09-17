@@ -1,3 +1,4 @@
+them: minima
 title: HwangMinHee's First my Blog!
 author: GitHub User
 email: HHH@naver.com
@@ -12,4 +13,5 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-them: minima
+Commit changes
+
