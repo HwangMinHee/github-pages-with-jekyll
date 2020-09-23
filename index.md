@@ -1,4 +1,3 @@
-# Welcome to my blog
+# 황민희의 블로그
 
-I'm glad you are here. I plan to talk about ...
-MY Frist Blog! EE!!
+공부 겸 작업물 관리용 블로그
