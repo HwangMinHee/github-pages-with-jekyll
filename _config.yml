@@ -1,3 +1,8 @@
+remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+url                      : "https://HwangMinHee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
 title: HwangMinHee's First my Blog!
 author: GitHub User
 email: kozmotis@naver.com
